@@ -1,0 +1,63 @@
+about:
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  license: Apache-2.0
+  homepage: https://velero.io
+  head: efc69c6
+  archived: false
+  latestVersion: v1.18.3-rc.1
+  collectedAt: 2026-09-02T04:22:30Z
+timeline:
+  created: 2017-08-02
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 10260
+  watcher: 130
+  fork: 1607
+  release: 176
+  contributor: 341
+  pullRequest: 837
+  issue: 4806
+language:
+  Go: 7907916
+  Shell: 42719
+  Makefile: 30490
+  HTML: 29245
+  SCSS: 27754
+  JavaScript: 10393
+  Python: 9558
+  Dockerfile: 8070
+totalLine: 8066145
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-04
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-06
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-07
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0

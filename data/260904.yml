@@ -7,7 +7,7 @@ about:
   head: f2ad7f0
   archived: false
   latestVersion: v1.18.3-rc.1
-  collectedAt: 2026-09-04T19:30:42Z
+  collectedAt: 2026-09-04T21:00:55Z
 timeline:
   created: 2017-08-02
   lastCommit: 2026-09-04
@@ -87,6 +87,84 @@ total:
   openIssue: 653
   commit: 6792
 ---
+path: /home/runner/.x-repo/github.com/vmware-tanzu/velero
+collectedAt: 2026-09-04T21:00:58Z
+loc:
+  Go:
+    code: 212673
+    comments: 25128
+    blanks: 28690
+    files: 968
+  Json:
+    code: 22340
+    comments: 0
+    blanks: 0
+    files: 12
+  Yaml:
+    code: 10275
+    comments: 66
+    blanks: 37
+    files: 95
+  Sass:
+    code: 5666
+    comments: 1079
+    blanks: 1303
+    files: 103
+  Svg:
+    code: 2013
+    comments: 15
+    blanks: 2
+    files: 29
+  Html:
+    code: 695
+    comments: 11
+    blanks: 33
+    files: 25
+  Sh:
+    code: 608
+    comments: 410
+    blanks: 179
+    files: 20
+  Makefile:
+    code: 540
+    comments: 139
+    blanks: 125
+    files: 2
+  Protobuf:
+    code: 370
+    comments: 0
+    blanks: 82
+    files: 10
+  JavaScript:
+    code: 232
+    comments: 91
+    blanks: 75
+    files: 2
+  Dockerfile:
+    code: 105
+    comments: 56
+    blanks: 23
+    files: 3
+  Toml:
+    code: 8
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 113994
+    blanks: 49075
+    files: 1824
+  Text:
+    code: 0
+    comments: 13
+    blanks: 3
+    files: 2
+total:
+  code: 283656
+  comments: 148293
+  blanks: 80795
+  files: 3096
 ---
 date: "2026-08-24"
 repo:

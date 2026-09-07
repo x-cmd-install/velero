@@ -2,24 +2,24 @@ about:
   description: "Backup and migrate Kubernetes applications and their persistent volumes"
   license: Apache-2.0
   homepage: https://velero.io
-  head: f2ad7f0
+  head: 0255c6b
   archived: false
   latestVersion: "v1.18.3-rc.1"
-  collectedAt: 2026-09-07T04:33:41Z
+  collectedAt: 2026-09-07T19:53:47Z
 timeline:
   created: 2017-08-02
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-31
 popularity:
-  star: 10282
+  star: 10284
   watcher: 131
-  fork: 1617
+  fork: 1618
   release: 176
   contributor: 343
-  pullRequest: 4745
+  pullRequest: 4748
   issue: 4809
 language:
-  Go: 7990462
+  Go: 8008507
   Shell: 43456
   Makefile: 30490
   HTML: 29245
@@ -27,7 +27,7 @@ language:
   JavaScript: 10393
   Python: 9558
   Dockerfile: 8070
-totalBytes: 8149428
+totalBytes: 8167473
 recent:
   last30d:
     since: 2026-08-08
@@ -79,19 +79,19 @@ recent:
     commit: 0
 total:
   release: 176
-  mergedPR: 3897
-  openPR: 182
+  mergedPR: 3899
+  openPR: 183
   closedIssue: 4155
   openIssue: 654
-  commit: 6792
+  commit: 6793
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/velero
-collectedAt: 2026-09-07T04:33:49Z
+collectedAt: 2026-09-07T19:53:56Z
 loc:
   Go:
-    code: 212673
-    comments: 25128
-    blanks: 28690
+    code: 213032
+    comments: 25164
+    blanks: 28731
     files: 968
   Json:
     code: 22340
@@ -159,9 +159,9 @@ loc:
     blanks: 3
     files: 2
 total:
-  code: 283656
-  comments: 148293
-  blanks: 80795
+  code: 284015
+  comments: 148329
+  blanks: 80836
   files: 3096
 ---
 date: "2026-08-24"
@@ -316,7 +316,7 @@ checks:
       - 'Info:   4 out of   4 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:33:51+00:00
+  collectedAt: 2026-09-07T19:53:57+00:00
   platform:
     darwin/arm64:
       name:  velero-v1.18.2-darwin-arm64.tar.gz

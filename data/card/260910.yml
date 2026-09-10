@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.18.3-rc.2"
   latestRelease: "v1.18.2"
   latestPrerelease: "v1.18.3-rc.2"
-  collectedAt: 2026-09-10T16:27:34Z
+  collectedAt: 2026-09-10T21:02:45Z
 timeline:
   created: 2017-08-02
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-26
   lastPrerelease: 2026-09-08
 popularity:
-  star: 10287
+  star: 10288
   watcher: 131
   fork: 1621
   release: 177
   contributor: 345
-  pullRequest: 4768
+  pullRequest: 4769
   issue: 4816
 language:
   Go: 8049451
@@ -84,13 +84,13 @@ recent:
 total:
   release: 177
   mergedPR: 3915
-  openPR: 184
+  openPR: 185
   closedIssue: 4163
   openIssue: 653
   commit: 6831
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/velero
-collectedAt: 2026-09-10T16:27:42Z
+collectedAt: 2026-09-10T21:02:53Z
 loc:
   Go:
     code: 214014

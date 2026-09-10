@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.18.3-rc.2"
   latestRelease: "v1.18.2"
   latestPrerelease: "v1.18.3-rc.2"
-  collectedAt: 2026-09-10T21:02:45Z
+  collectedAt: 2026-09-10T22:46:01Z
 timeline:
   created: 2017-08-02
   lastCommit: 2026-09-10
@@ -90,7 +90,7 @@ total:
   commit: 6831
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/velero
-collectedAt: 2026-09-10T21:02:53Z
+collectedAt: 2026-09-10T22:46:09Z
 loc:
   Go:
     code: 214014

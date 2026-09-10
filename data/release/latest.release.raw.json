@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 57663385,
       "digest": "sha256:a4e273de70ea2d9555fee7568742ae175fc8746fdb464139edb428cc3abd9705",
-      "download_count": 27524,
+      "download_count": 27586,
       "created_at": "2026-06-26T07:06:18Z",
       "updated_at": "2026-06-26T07:06:21Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.2/velero-v1.18.2-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53082711,
       "digest": "sha256:453053b79330f307e2eac492915125258292c67c5595acdb3eae87c2b0b86e48",
-      "download_count": 1950,
+      "download_count": 1951,
       "created_at": "2026-06-26T07:06:21Z",
       "updated_at": "2026-06-26T07:06:23Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.2/velero-v1.18.2-linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 58556278,
       "digest": "sha256:bf4312e6b7e56c6677892f6b802ca6e43541a11ef8b3c07af97a7bae42399282",
-      "download_count": 1143,
+      "download_count": 1144,
       "created_at": "2026-06-26T07:06:26Z",
       "updated_at": "2026-06-26T07:21:37Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.2/velero-v1.18.2-windows-amd64.tar.gz"

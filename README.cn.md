@@ -4,7 +4,7 @@
 
 Backup and migrate Kubernetes applications and their persistent volumes
 
-![velero](https://repo.x-cmd.io/velero.svg)
+![velero](https://repo.x-cmd.io/velero.svg?lang=zh)
 
 ## 安装
 
@@ -21,17 +21,30 @@ x install velero
 ## 发布
 
 - **最新版本**: `v1.18.3-rc.2` (2026-06-26)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-06-26T07:27:14Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [CHECKSUM](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/CHECKSUM) | 804 B | `other` |
+| [velero-v1.18.2-darwin-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-darwin-amd64.tar.gz) | 58.4 MiB | `native/darwin/x64` |
+| [velero-v1.18.2-darwin-arm64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-darwin-arm64.tar.gz) | 55.3 MiB | `native/darwin/arm64` |
+| [velero-v1.18.2-linux-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-linux-amd64.tar.gz) | 55.0 MiB | `native/linux/x64` |
+| [velero-v1.18.2-linux-arm.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-linux-arm.tar.gz) | 51.2 MiB | `native/linux/arm` |
+| [velero-v1.18.2-linux-arm64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-linux-arm64.tar.gz) | 50.6 MiB | `native/linux/arm64` |
+| [velero-v1.18.2-linux-ppc64le.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-linux-ppc64le.tar.gz) | 50.8 MiB | `native/unknown` |
+| [velero-v1.18.2-linux-s390x.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-linux-s390x.tar.gz) | 53.1 MiB | `native/unknown` |
+| [velero-v1.18.2-windows-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-windows-amd64.tar.gz) | 55.8 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 10,285 · **Fork**: 1,621 · **开放 issue**: 4,813 · **贡献者**: 345
+- **Star**: 10,287 · **Fork**: 1,621 · **开放 issue**: 4,816 · **贡献者**: 345
 
 ## 累计统计
 
-- **发布数**: 177 · **已合并 PR**: 3912 · **开放 PR**: 180 · **已关闭 issue**: 4162 · **开放 issue**: 651 · **提交数**: 6810
+- **发布数**: 177 · **已合并 PR**: 3915 · **开放 PR**: 184 · **已关闭 issue**: 4163 · **开放 issue**: 653 · **提交数**: 6831
 
 ## 最近活动
 
@@ -43,13 +56,13 @@ x install velero
 
 ## 代码规模
 
-合计: **256,332** 行代码（覆盖前 5 种语言、共 **1214** 个文件）。
+合计: **256,874** 行代码（覆盖前 5 种语言、共 **1214** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 213,480 | 25,337 | 28,841 | 975 |
+| Go | 214,014 | 25,351 | 28,905 | 975 |
 | Json | 22,340 | 0 | 0 | 12 |
-| Yaml | 10,275 | 66 | 37 | 95 |
+| Yaml | 10,283 | 66 | 37 | 95 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
 | Svg | 2,013 | 15 | 2 | 29 |
 
@@ -72,4 +85,4 @@ velero 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:50Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:52Z._

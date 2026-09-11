@@ -14,11 +14,11 @@ x install velero
 
 ## Code insight
 
-Total: **256,874** lines of code across **1214** files in the top 5 languages.
+Total: **257,494** lines of code across **1215** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 214,014 | 25,351 | 28,905 | 975 |
+| Go | 214,634 | 25,379 | 28,969 | 976 |
 | Json | 22,340 | 0 | 0 | 12 |
 | Yaml | 10,283 | 66 | 37 | 95 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
@@ -43,16 +43,16 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.3-rc.2` (2026-06-26)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,290 · **Forks**: 1,621 · **Open issues**: 4,816 · **Contributors**: 345
+- **Stars**: 10,291 · **Forks**: 1,621 · **Open issues**: 4,816 · **Contributors**: 345
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 3915 · **Open PRs**: 186 · **Closed issues**: 4163 · **Open issues**: 653 · **Commits**: 6831
+- **Releases**: 177 · **Merged PRs**: 3917 · **Open PRs**: 187 · **Closed issues**: 4163 · **Open issues**: 653 · **Commits**: 6834
 
 ## Recent activity
 
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:33:15Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:30:04Z._

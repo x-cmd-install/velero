@@ -2,28 +2,28 @@ about:
   description: "Backup and migrate Kubernetes applications and their persistent volumes"
   license: Apache-2.0
   homepage: https://velero.io
-  head: 3df8ef0
+  head: 7e67f03
   archived: false
   latestVersion: "v1.18.3-rc.2"
   latestRelease: "v1.18.2"
   latestPrerelease: "v1.18.3-rc.2"
-  collectedAt: 2026-09-11T04:32:46Z
+  collectedAt: 2026-09-11T20:29:48Z
 timeline:
   created: 2017-08-02
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-08
   lastRelease: 2026-06-26
   lastPrerelease: 2026-09-08
 popularity:
-  star: 10290
+  star: 10291
   watcher: 131
   fork: 1621
   release: 177
   contributor: 345
-  pullRequest: 4770
+  pullRequest: 4773
   issue: 4816
 language:
-  Go: 8049451
+  Go: 8071704
   Shell: 43456
   Makefile: 30490
   HTML: 29245
@@ -31,7 +31,7 @@ language:
   JavaScript: 10393
   Python: 9558
   Dockerfile: 8070
-totalBytes: 8208417
+totalBytes: 8230670
 recent:
   last30d:
     since: 2026-08-12
@@ -83,20 +83,20 @@ recent:
     commit: 0
 total:
   release: 177
-  mergedPR: 3915
-  openPR: 186
+  mergedPR: 3917
+  openPR: 187
   closedIssue: 4163
   openIssue: 653
-  commit: 6831
+  commit: 6834
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/velero
-collectedAt: 2026-09-11T04:33:02Z
+collectedAt: 2026-09-11T20:29:55Z
 loc:
   Go:
-    code: 214014
-    comments: 25351
-    blanks: 28905
-    files: 975
+    code: 214634
+    comments: 25379
+    blanks: 28969
+    files: 976
   Json:
     code: 22340
     comments: 0
@@ -163,10 +163,10 @@ loc:
     blanks: 3
     files: 2
 total:
-  code: 285005
-  comments: 148529
-  blanks: 81015
-  files: 3103
+  code: 285625
+  comments: 148557
+  blanks: 81079
+  files: 3104
 ---
 date: "2026-09-07"
 repo:

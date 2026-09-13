@@ -14,11 +14,11 @@ x install velero
 
 ## Code insight
 
-Total: **257,494** lines of code across **1215** files in the top 5 languages.
+Total: **257,495** lines of code across **1215** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 214,634 | 25,379 | 28,969 | 976 |
+| Go | 214,635 | 25,379 | 28,969 | 976 |
 | Json | 22,340 | 0 | 0 | 12 |
 | Yaml | 10,283 | 66 | 37 | 95 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,291 · **Forks**: 1,621 · **Open issues**: 4,816 · **Contributors**: 345
+- **Stars**: 10,292 · **Forks**: 1,623 · **Open issues**: 4,817 · **Contributors**: 345
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 3917 · **Open PRs**: 187 · **Closed issues**: 4163 · **Open issues**: 653 · **Commits**: 6834
+- **Releases**: 177 · **Merged PRs**: 3918 · **Open PRs**: 188 · **Closed issues**: 4167 · **Open issues**: 650 · **Commits**: 6835
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-18 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-23 | 33 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:30:04Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:54:34Z._

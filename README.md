@@ -14,13 +14,13 @@ x install velero
 
 ## Code insight
 
-Total: **257,495** lines of code across **1215** files in the top 5 languages.
+Total: **257,884** lines of code across **1215** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 214,635 | 25,379 | 28,969 | 976 |
+| Go | 215,008 | 25,382 | 28,990 | 976 |
 | Json | 22,340 | 0 | 0 | 12 |
-| Yaml | 10,283 | 66 | 37 | 95 |
+| Yaml | 10,299 | 66 | 37 | 95 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
 | Svg | 2,013 | 15 | 2 | 29 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.3-rc.2` (2026-06-26)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 3918 · **Open PRs**: 188 · **Closed issues**: 4167 · **Open issues**: 650 · **Commits**: 6835
+- **Releases**: 177 · **Merged PRs**: 3920 · **Open PRs**: 186 · **Closed issues**: 4173 · **Open issues**: 644 · **Commits**: 6849
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 33 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,17 +79,6 @@ Lowest-scoring checks:
 | [velero-v1.18.2-linux-s390x.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-linux-s390x.tar.gz) | 53.1 MiB | `native/unknown` |
 | [velero-v1.18.2-windows-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.2/velero-v1.18.2-windows-amd64.tar.gz) | 55.8 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **53** distros on [repology.org](https://repology.org/project/velero). **13** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.18.2` | ✅ latest |
-| Homebrew | `1.18.2` | ✅ latest |
-| Nix unstable | `1.18.2` | ✅ latest |
-| openSUSE Tumbleweed | `1.18.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `velero` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +88,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:54:34Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:05:01Z._

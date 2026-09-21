@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,300 · **Forks**: 1,623 · **Open issues**: 4,824 · **Contributors**: 352
+- **Stars**: 10,303 · **Forks**: 1,622 · **Open issues**: 4,824 · **Contributors**: 352
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 3943 · **Open PRs**: 170 · **Closed issues**: 4197 · **Open issues**: 627 · **Commits**: 6893
+- **Releases**: 177 · **Merged PRs**: 3943 · **Open PRs**: 171 · **Closed issues**: 4197 · **Open issues**: 627 · **Commits**: 6893
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 33 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T04:53:43Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T04:57:43Z._

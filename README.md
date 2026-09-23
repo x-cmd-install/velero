@@ -4,7 +4,7 @@
 
 Backup and migrate Kubernetes applications and their persistent volumes
 
-[![x-cmd/install — velero Code Quality Monitoring Repo Card](https://repo.x-cmd.io/velero.svg)](https://x-cmd.com/install/velero)
+[![x-cmd/install — velero Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/velero.svg)](https://x-cmd.com/install/velero)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install velero
 
 ## Code insight
 
-Total: **261,072** lines of code across **1219** files in the top 5 languages.
+Total: **261,301** lines of code across **1220** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 218,178 | 25,818 | 29,333 | 980 |
+| Go | 218,399 | 25,879 | 29,378 | 981 |
 | Json | 22,340 | 0 | 0 | 12 |
-| Yaml | 10,317 | 66 | 37 | 95 |
+| Yaml | 10,325 | 66 | 37 | 95 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
 | Svg | 2,013 | 15 | 2 | 29 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.3` (2026-09-21)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,304 · **Forks**: 1,622 · **Open issues**: 4,825 · **Contributors**: 352
+- **Stars**: 10,309 · **Forks**: 1,623 · **Open issues**: 4,827 · **Contributors**: 353
 
 ## Totals (cumulative)
 
-- **Releases**: 178 · **Merged PRs**: 3950 · **Open PRs**: 169 · **Closed issues**: 4199 · **Open issues**: 626 · **Commits**: 6905
+- **Releases**: 178 · **Merged PRs**: 3957 · **Open PRs**: 168 · **Closed issues**: 4201 · **Open issues**: 626 · **Commits**: 6915
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:54:14Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:15Z._

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 804,
       "digest": "sha256:7f3ccc900d8831f3e904d0175cc4dd4311cd488d9d7b24285c384dc3df5751f6",
-      "download_count": 91,
+      "download_count": 127,
       "created_at": "2026-09-21T07:51:54Z",
       "updated_at": "2026-09-21T07:51:54Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/CHECKSUM"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 63954738,
       "digest": "sha256:b33648adb008646804ef2979381bda156e37e1cc5b17969419ece47596b72ec5",
-      "download_count": 15,
+      "download_count": 19,
       "created_at": "2026-09-21T07:46:28Z",
       "updated_at": "2026-09-21T07:48:24Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/velero-v1.18.3-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 60496788,
       "digest": "sha256:ac0b829fa6fd6a6aea5ffa86c299d5412667d3a152f0a167ea948726593cca8a",
-      "download_count": 41,
+      "download_count": 63,
       "created_at": "2026-09-21T07:48:32Z",
       "updated_at": "2026-09-21T07:50:13Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/velero-v1.18.3-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 60155721,
       "digest": "sha256:50012eda7424b0b94f53da563e2a48442d92a53c142c814b78e380a34139a98c",
-      "download_count": 544,
+      "download_count": 851,
       "created_at": "2026-09-21T07:50:18Z",
       "updated_at": "2026-09-21T07:51:58Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/velero-v1.18.3-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 56166040,
       "digest": "sha256:65f25b652537ea2f2872f58f31c92231ec8028d30a8a243abb823ba863442963",
-      "download_count": 11,
+      "download_count": 15,
       "created_at": "2026-09-21T07:50:12Z",
       "updated_at": "2026-09-21T07:51:50Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/velero-v1.18.3-linux-arm.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 55324552,
       "digest": "sha256:eadbfc8df33652f0c6c10112c9b486469b3dd38f2358869ea608411ab92e8c4a",
-      "download_count": 60,
+      "download_count": 90,
       "created_at": "2026-09-21T07:45:10Z",
       "updated_at": "2026-09-21T07:46:27Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/velero-v1.18.3-linux-arm64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 61060671,
       "digest": "sha256:93b20e00abbeaa49d92f9d40c84d5555012795ed7d0c9f7ffd3dd512b9cde977",
-      "download_count": 76,
+      "download_count": 103,
       "created_at": "2026-09-21T07:48:25Z",
       "updated_at": "2026-09-21T07:50:10Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.3/velero-v1.18.3-windows-amd64.tar.gz"

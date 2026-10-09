@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 804,
       "digest": "sha256:665cf712c26e598d5e94a8837dc76403264d9c04518969bc6527b749dd448781",
-      "download_count": 584,
+      "download_count": 614,
       "created_at": "2026-09-28T06:18:24Z",
       "updated_at": "2026-09-28T06:18:24Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/CHECKSUM"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 64015636,
       "digest": "sha256:b9e13510a2d55f80bd8ec0775cbcb0959214210688e6958b6c09da0d961c7d6a",
-      "download_count": 54,
+      "download_count": 64,
       "created_at": "2026-09-28T06:10:50Z",
       "updated_at": "2026-09-28T06:13:21Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 60571452,
       "digest": "sha256:e51ce875fb3e47996b0b425edefff72f4106ad891b4e6577c21bda20c41f27c3",
-      "download_count": 163,
+      "download_count": 176,
       "created_at": "2026-09-28T06:13:46Z",
       "updated_at": "2026-09-28T06:15:55Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 60229738,
       "digest": "sha256:e520c17d8997e1c9d0a28ae013592e4473ca3bd82cb3acd132e51286263f74bf",
-      "download_count": 3548,
+      "download_count": 3991,
       "created_at": "2026-09-28T06:16:03Z",
       "updated_at": "2026-09-28T06:18:31Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 56226550,
       "digest": "sha256:236c8cd019b7a87d3b5ee193c94c9cde8e1580db28aa1fd43162b38ce9f4b55c",
-      "download_count": 54,
+      "download_count": 66,
       "created_at": "2026-09-28T06:13:30Z",
       "updated_at": "2026-09-28T06:15:37Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-arm.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 55379929,
       "digest": "sha256:c323275f9853493ad302ce1697c3bf98e9ad062397941136aaa809c516d673cc",
-      "download_count": 224,
+      "download_count": 246,
       "created_at": "2026-09-28T06:08:28Z",
       "updated_at": "2026-09-28T06:10:48Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 55585829,
       "digest": "sha256:b0449a8b0875ca67c7a425173d133c8bf0b590c07e1edb12de2e48032cc212f6",
-      "download_count": 63,
+      "download_count": 70,
       "created_at": "2026-09-28T06:15:40Z",
       "updated_at": "2026-09-28T06:18:19Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-ppc64le.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 59060657,
       "digest": "sha256:835e7f01d6847d329a48a81d50194c9f6db40903d1ddfe495c915827206e6675",
-      "download_count": 15,
+      "download_count": 20,
       "created_at": "2026-09-28T06:08:28Z",
       "updated_at": "2026-09-28T06:10:51Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-linux-s390x.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 61116641,
       "digest": "sha256:13a06e9b4772e2a3d7ba75df5f7190a9021c46d48d7ba057cf8df9db3bfad73f",
-      "download_count": 255,
+      "download_count": 273,
       "created_at": "2026-09-28T06:11:00Z",
       "updated_at": "2026-09-28T06:13:35Z",
       "browser_download_url": "https://github.com/velero-io/velero/releases/download/v1.18.4/velero-v1.18.4-windows-amd64.tar.gz"

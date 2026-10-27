@@ -14,13 +14,13 @@ x install velero
 
 ## Code insight
 
-Total: **264,511** lines of code across **1231** files in the top 5 languages.
+Total: **264,614** lines of code across **1231** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 221,435 | 26,276 | 29,627 | 990 |
+| Go | 221,536 | 26,290 | 29,651 | 990 |
 | Json | 22,340 | 0 | 0 | 12 |
-| Yaml | 10,384 | 66 | 37 | 97 |
+| Yaml | 10,386 | 66 | 37 | 97 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
 | Svg | 2,013 | 15 | 2 | 29 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.4` (2026-09-28)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-27
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,356 · **Forks**: 1,644 · **Open issues**: 4,876 · **Contributors**: 363
+- **Stars**: 10,357 · **Forks**: 1,646 · **Open issues**: 4,878 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 4024 · **Open PRs**: 186 · **Closed issues**: 4225 · **Open issues**: 651 · **Commits**: 7001
+- **Releases**: 180 · **Merged PRs**: 4028 · **Open PRs**: 186 · **Closed issues**: 4227 · **Open issues**: 651 · **Commits**: 7011
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:39:20Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:05:00Z._

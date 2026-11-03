@@ -1,3 +1,157 @@
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.15.0
+  origversion: 1.15.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.14.1
+  origversion: 1.14.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.14.0
+  origversion: 1.14.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: alt_p11
+  srcname: velero
+  binnames:
+    - velero
+    - velero-debuginfo
+  visiblename: velero
+  version: 1.18.1
+  origversion: 1.18.1-alt1
+  status: outdated
+  summary: Backup and migrate Kubernetes applications and their persistent volumes
+  maintainers:
+    - bne@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Archiving/Backup
+- repo: altsisyphus
+  srcname: velero
+  binnames:
+    - velero
+    - velero-debuginfo
+  visiblename: velero
+  version: 1.18.4
+  origversion: 1.18.4-alt1
+  status: newest
+  summary: Backup and migrate Kubernetes applications and their persistent volumes
+  maintainers:
+    - bne@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Archiving/Backup
+- repo: arch
+  subrepo: extra
+  srcname: velero
+  binname: velero
+  visiblename: velero
+  version: 1.18.4
+  origversion: 1.18.4-1
+  status: newest
+  summary: Backup and migrate Kubernetes applications and their persistent volumes
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: velero
+  visiblename: Velero CLI
+  version: 1.18.4
+  origversion: null
+  status: newest
+  summary: Backup and migrate Kubernetes applications and their persistent volumes
+- repo: homebrew
+  srcname: velero
+  visiblename: velero
+  version: 1.18.4
+  origversion: null
+  status: newest
+  summary: Disaster recovery for Kubernetes resources and persistent volumes
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: velero
+  binname: velero
+  visiblename: velero
+  version: 1.18.4
+  origversion: 1.18.4-1
+  status: newest
+  summary: Backup and migrate Kubernetes applications and their persistent volumes
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: velero
+  visiblename: velero
+  version: 1.13.2
+  origversion: null
+  status: outdated
+  summary: A utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
+  maintainers:
+    - maxbode@gmail.com
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: velero
+  visiblename: velero
+  version: 1.14.1
+  origversion: null
+  status: outdated
+  summary: A utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
+  maintainers:
+    - maxbode@gmail.com
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: velero
+  visiblename: velero
+  version: 1.16.0
+  origversion: null
+  status: outdated
+  summary: A utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
+  maintainers:
+    - maxbode@gmail.com
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: velero
+  visiblename: velero
+  version: 1.17.1
+  origversion: null
+  status: outdated
+  summary: Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
+  maintainers:
+    - maxbode@gmail.com
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: velero
+  visiblename: velero
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
+  maintainers:
+    - maxbode@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: nix_unstable
   srcname: velero
   visiblename: velero
@@ -189,6 +343,69 @@
   subrepo: devops
   binname: velero
   visiblename: velero
+  version: 1.13.2
+  origversion: 1.13.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.13.1
+  origversion: 1.13.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.13.0
+  origversion: 1.13.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.12.3
+  origversion: 1.12.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.12.2
+  origversion: 1.12.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.12.1
+  origversion: 1.12.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
+  version: 1.12.0
+  origversion: 1.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: velero
+  visiblename: velero
   version: 1.11.1
   origversion: 1.11.1-1~ops2deb
   status: legacy
@@ -302,242 +519,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.13.2
-  origversion: 1.13.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.13.1
-  origversion: 1.13.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.13.0
-  origversion: 1.13.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.12.3
-  origversion: 1.12.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.12.2
-  origversion: 1.12.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.12.1
-  origversion: 1.12.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.12.0
-  origversion: 1.12.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.15.0
-  origversion: 1.15.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.14.1
-  origversion: 1.14.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: alt_p11
-  srcname: velero
-  binnames:
-    - velero
-    - velero-debuginfo
-  visiblename: velero
-  version: 1.18.1
-  origversion: 1.18.1-alt1
-  status: outdated
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-  maintainers:
-    - bne@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Archiving/Backup
-- repo: altsisyphus
-  srcname: velero
-  binnames:
-    - velero
-    - velero-debuginfo
-  visiblename: velero
-  version: 1.18.4
-  origversion: 1.18.4-alt1
-  status: newest
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-  maintainers:
-    - bne@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Archiving/Backup
-- repo: arch
-  subrepo: extra
-  srcname: velero
-  binname: velero
-  visiblename: velero
-  version: 1.18.4
-  origversion: 1.18.4-1
-  status: newest
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-  licenses:
-    - Apache-2.0
-- repo: chocolatey
-  binname: velero
-  visiblename: Velero CLI
-  version: 1.18.4
-  origversion: null
-  status: newest
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-- repo: homebrew
-  srcname: velero
-  visiblename: velero
-  version: 1.18.4
-  origversion: null
-  status: newest
-  summary: Disaster recovery for Kubernetes resources and persistent volumes
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: velero
-  binname: velero
-  visiblename: velero
-  version: 1.18.2
-  origversion: 1.18.2-1
-  status: outdated
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: velero
-  binname: velero
-  visiblename: velero
-  version: 1.18.4
-  origversion: 1.18.4-1
-  status: newest
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: velero
-  binname: velero
-  visiblename: velero
-  version: 1.18.4
-  origversion: 1.18.4-1
-  status: newest
-  summary: Backup and migrate Kubernetes applications and their persistent volumes
-  licenses:
-    - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: velero
-  visiblename: velero
-  version: 1.14.0
-  origversion: 1.14.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: nix_stable_24_05
-  srcname: velero
-  visiblename: velero
-  version: 1.13.2
-  origversion: null
-  status: outdated
-  summary: A utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
-  maintainers:
-    - maxbode@gmail.com
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: velero
-  visiblename: velero
-  version: 1.14.1
-  origversion: null
-  status: outdated
-  summary: A utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
-  maintainers:
-    - maxbode@gmail.com
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: velero
-  visiblename: velero
-  version: 1.16.0
-  origversion: null
-  status: outdated
-  summary: A utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
-  maintainers:
-    - maxbode@gmail.com
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: velero
-  visiblename: velero
-  version: 1.17.1
-  origversion: null
-  status: outdated
-  summary: Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
-  maintainers:
-    - maxbode@gmail.com
-    - bryanasdev000@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_26_05
-  srcname: velero
-  visiblename: velero
-  version: 1.18.0
-  origversion: null
-  status: outdated
-  summary: Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes
-  maintainers:
-    - maxbode@gmail.com
-  licenses:
-    - Apache-2.0

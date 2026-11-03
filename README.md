@@ -14,11 +14,11 @@ x install velero
 
 ## Code insight
 
-Total: **265,408** lines of code across **1232** files in the top 5 languages.
+Total: **265,507** lines of code across **1232** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 222,133 | 26,305 | 29,698 | 991 |
+| Go | 222,232 | 26,308 | 29,701 | 991 |
 | Json | 22,340 | 0 | 0 | 12 |
 | Yaml | 10,394 | 66 | 37 | 97 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.4` (2026-09-28)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-03
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,365 · **Forks**: 1,647 · **Open issues**: 4,887 · **Contributors**: 364
+- **Stars**: 10,366 · **Forks**: 1,649 · **Open issues**: 4,887 · **Contributors**: 364
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 4049 · **Open PRs**: 183 · **Closed issues**: 4236 · **Open issues**: 651 · **Commits**: 7044
+- **Releases**: 180 · **Merged PRs**: 4051 · **Open PRs**: 181 · **Closed issues**: 4239 · **Open issues**: 648 · **Commits**: 7048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 18 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-12 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-13 | 33 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **55** distros on [repology.org](https://repology.org/project/velero). **11** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **53** distros on [repology.org](https://repology.org/project/velero). **10** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:56:19Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:41:23Z._

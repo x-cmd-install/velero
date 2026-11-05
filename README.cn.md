@@ -14,25 +14,25 @@ x install velero
 
 ## 代码洞察
 
-合计: **265,600** 行代码（覆盖前 5 种语言、共 **1232** 个文件）。
+合计: **265,791** 行代码（覆盖前 5 种语言、共 **1233** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 222,325 | 26,310 | 29,704 | 991 |
-| Json | 22,340 | 0 | 0 | 12 |
-| Yaml | 10,394 | 66 | 37 | 97 |
+| Json | 22,339 | 0 | 0 | 12 |
+| Yaml | 10,533 | 71 | 37 | 98 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
 | Svg | 2,013 | 15 | 2 | 29 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.1 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install velero
 ## 发布
 
 - **最新版本**: `v1.18.4` (2026-09-28)
-- **最近提交**: 2026-11-03
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 9 个
 
 ## 流行度
 
-- **Star**: 10,365 · **Fork**: 1,650 · **开放 issue**: 4,888 · **贡献者**: 364
+- **Star**: 10,366 · **Fork**: 1,649 · **开放 issue**: 4,888 · **贡献者**: 363
 
 ## 累计统计
 
-- **发布数**: 180 · **已合并 PR**: 4055 · **开放 PR**: 186 · **已关闭 issue**: 4239 · **开放 issue**: 649 · **提交数**: 7051
+- **发布数**: 180 · **已合并 PR**: 4066 · **开放 PR**: 182 · **已关闭 issue**: 4240 · **开放 issue**: 648 · **提交数**: 7067
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-09 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-10 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-15 | 33 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ velero 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:12:06Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:46:45Z._

@@ -14,25 +14,25 @@ x install velero
 
 ## Code insight
 
-Total: **265,600** lines of code across **1232** files in the top 5 languages.
+Total: **265,791** lines of code across **1233** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 222,325 | 26,310 | 29,704 | 991 |
-| Json | 22,340 | 0 | 0 | 12 |
-| Yaml | 10,394 | 66 | 37 | 97 |
+| Json | 22,339 | 0 | 0 | 12 |
+| Yaml | 10,533 | 71 | 37 | 98 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
 | Svg | 2,013 | 15 | 2 | 29 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.1 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.18.4` (2026-09-28)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,365 · **Forks**: 1,650 · **Open issues**: 4,888 · **Contributors**: 364
+- **Stars**: 10,366 · **Forks**: 1,649 · **Open issues**: 4,888 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 4055 · **Open PRs**: 186 · **Closed issues**: 4239 · **Open issues**: 649 · **Commits**: 7051
+- **Releases**: 180 · **Merged PRs**: 4066 · **Open PRs**: 182 · **Closed issues**: 4240 · **Open issues**: 648 · **Commits**: 7067
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-09 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-10 | 17 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-15 | 33 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:12:06Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:46:44Z._

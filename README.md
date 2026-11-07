@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.18.4` (2026-09-28)
+- **Latest**: `v1.19.0-rc.1` (2026-09-28)
 - **Last commit**: 2026-11-05
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,366 · **Forks**: 1,649 · **Open issues**: 4,889 · **Contributors**: 363
+- **Stars**: 10,368 · **Forks**: 1,648 · **Open issues**: 4,889 · **Contributors**: 363
 
 ## Totals (cumulative)
 
-- **Releases**: 180 · **Merged PRs**: 4071 · **Open PRs**: 181 · **Closed issues**: 4241 · **Open issues**: 648 · **Commits**: 7069
+- **Releases**: 181 · **Merged PRs**: 4071 · **Open PRs**: 182 · **Closed issues**: 4241 · **Open issues**: 648 · **Commits**: 7069
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-08 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-10 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-11 | 17 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-16 | 33 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-08 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-09 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-11 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-12 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-17 | 34 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **53** distros on [repology.org](https://repology.org/project/velero). **10** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/velero). **12** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:39:16Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:54Z._

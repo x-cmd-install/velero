@@ -14,11 +14,11 @@ x install velero
 
 ## Code insight
 
-Total: **267,374** lines of code across **1235** files in the top 5 languages.
+Total: **267,570** lines of code across **1235** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 223,908 | 26,425 | 29,886 | 993 |
+| Go | 224,104 | 26,438 | 29,906 | 993 |
 | Json | 22,339 | 0 | 0 | 12 |
 | Yaml | 10,533 | 71 | 37 | 98 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.19.0-rc.2` (2026-09-28)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,379 · **Forks**: 1,649 · **Open issues**: 4,904 · **Contributors**: 366
+- **Stars**: 10,381 · **Forks**: 1,650 · **Open issues**: 4,905 · **Contributors**: 367
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4102 · **Open PRs**: 181 · **Closed issues**: 4273 · **Open issues**: 631 · **Commits**: 7095
+- **Releases**: 182 · **Merged PRs**: 4103 · **Open PRs**: 185 · **Closed issues**: 4274 · **Open issues**: 631 · **Commits**: 7096
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-21 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-23 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-24 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-29 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-22 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-24 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-25 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-30 | 35 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:28:44Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:28:07Z._

@@ -14,11 +14,11 @@ x install velero
 
 ## Code insight
 
-Total: **267,570** lines of code across **1235** files in the top 5 languages.
+Total: **267,819** lines of code across **1235** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 224,104 | 26,438 | 29,906 | 993 |
+| Go | 224,351 | 26,457 | 29,962 | 993 |
 | Json | 22,339 | 0 | 0 | 12 |
 | Yaml | 10,533 | 71 | 37 | 98 |
 | Sass | 5,666 | 1,079 | 1,303 | 103 |
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.19.0-rc.2` (2026-09-28)
-- **Last commit**: 2026-11-19
+- **Latest**: `v1.19.0` (2026-11-23)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 10,380 · **Forks**: 1,651 · **Open issues**: 4,914 · **Contributors**: 367
+- **Stars**: 10,381 · **Forks**: 1,651 · **Open issues**: 4,914 · **Contributors**: 369
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4103 · **Open PRs**: 193 · **Closed issues**: 4276 · **Open issues**: 638 · **Commits**: 7096
+- **Releases**: 183 · **Merged PRs**: 4111 · **Open PRs**: 185 · **Closed issues**: 4280 · **Open issues**: 634 · **Commits**: 7102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-27 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-02 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 36 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [CHECKSUM](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/CHECKSUM) | 804 B | `other` |
-| [velero-v1.18.4-darwin-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-amd64.tar.gz) | 61.1 MiB | `native/darwin/x64` |
-| [velero-v1.18.4-darwin-arm64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-darwin-arm64.tar.gz) | 57.8 MiB | `native/darwin/arm64` |
-| [velero-v1.18.4-linux-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-linux-amd64.tar.gz) | 57.4 MiB | `native/linux/x64` |
-| [velero-v1.18.4-linux-arm.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-linux-arm.tar.gz) | 53.6 MiB | `native/linux/arm` |
-| [velero-v1.18.4-linux-arm64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-linux-arm64.tar.gz) | 52.8 MiB | `native/linux/arm64` |
-| [velero-v1.18.4-linux-ppc64le.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-linux-ppc64le.tar.gz) | 53.0 MiB | `native/unknown` |
-| [velero-v1.18.4-linux-s390x.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-linux-s390x.tar.gz) | 56.3 MiB | `native/unknown` |
-| [velero-v1.18.4-windows-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.18.4/velero-v1.18.4-windows-amd64.tar.gz) | 58.3 MiB | `native/win/x64` |
+| [CHECKSUM](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/CHECKSUM) | 804 B | `other` |
+| [velero-v1.19.0-darwin-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-darwin-amd64.tar.gz) | 62.0 MiB | `native/darwin/x64` |
+| [velero-v1.19.0-darwin-arm64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-darwin-arm64.tar.gz) | 58.5 MiB | `native/darwin/arm64` |
+| [velero-v1.19.0-linux-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-linux-amd64.tar.gz) | 58.8 MiB | `native/linux/x64` |
+| [velero-v1.19.0-linux-arm.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-linux-arm.tar.gz) | 54.8 MiB | `native/linux/arm` |
+| [velero-v1.19.0-linux-arm64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-linux-arm64.tar.gz) | 53.9 MiB | `native/linux/arm64` |
+| [velero-v1.19.0-linux-ppc64le.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-linux-ppc64le.tar.gz) | 54.2 MiB | `native/unknown` |
+| [velero-v1.19.0-linux-s390x.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-linux-s390x.tar.gz) | 57.2 MiB | `native/unknown` |
+| [velero-v1.19.0-windows-amd64.tar.gz](https://github.com/vmware-tanzu/velero/releases/download/v1.19.0/velero-v1.19.0-windows-amd64.tar.gz) | 59.5 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -99,4 +99,4 @@ Install metadata for velero lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:46:10Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:35:07Z._
